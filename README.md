@@ -35,13 +35,12 @@ Users should be able to:
 
 ## My process
 
-<!-- ### Built with
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-<!-- - Flexbox -->
-<!-- - CSS Grid -->
-<!-- Mobile-first workflow -->
+- Flexbox
+- Mobile-first workflow
 
 <!-- ### What I learned -->
 <!-- Stuff here -->
@@ -63,9 +62,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - GitHub - [starberries](https://github.com/starberries)
 - Frontend Mentor - [@starberries](https://www.frontendmentor.io/profile/starberries)
-
-<!-- ## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.** -->

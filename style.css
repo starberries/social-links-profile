@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&family=Poiret+One&family=Sulphur+Point:wght@300;400;700&display=swap');
 
 :root {
     /* STYLE GUIDE COLORS */
@@ -31,17 +31,18 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Sulphur Point', sans-serif;
     font-size: 14px;
     color: #fff;
     background: var(--background-color);
 }
 
 main {
+    position: absolute;
     display: flex;
     flex-direction: column;
     background: var(--container-color);
-    max-width: 17rem;
+    max-width: 19rem;
     max-height: 30rem;
     margin: 3rem;
     padding: 1.5rem;
@@ -60,11 +61,13 @@ main {
 }
 
 .socials-header h1 {
+    font-family: 'Amaranth';
     font-size: 1.3rem;
     margin-bottom: 0.3rem;
 }
 
 .socials-header h2 {
+    font-family: 'Amaranth';
     font-size: inherit;
     font-weight: 600;
     color: var(--accent-color);
@@ -72,7 +75,7 @@ main {
 }
 
 .socials-main ul {
-    width: 14rem;
+    width: 100%;
     list-style: none;
     text-align: center;
 }
@@ -101,6 +104,7 @@ main {
 }
 
 .attribution {
+    font-family: 'Poiret One';
     position: absolute;
     bottom: 0;
     font-size: 11px;
