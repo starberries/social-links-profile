@@ -89,7 +89,7 @@ main {
     display: inline-block;
     width: 100%;
     height: var(--button-height);
-    padding: calc(((var(--button-height) - 1em) / 2) - 1px) 0;
+    padding: calc(((var(--button-height) - 1em) / 2) - 0.125rem) 0;
     font-weight: 600;
     color: #fff;
     text-decoration: none;
